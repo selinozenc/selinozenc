@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi everyone 👋
 
-<!--
 
 
 - 🔭 I’m currently working on **building my own company** :)(: 
@@ -11,4 +10,3 @@
 - 📫 How to reach me: ** https://www.linkedin.com/in/selinozenc/ **
 - ⚡ Fun fact: ** Almost everyone who I work with (including my students) says that I'm too social for an engineer ! :)) ** 
 
--->
